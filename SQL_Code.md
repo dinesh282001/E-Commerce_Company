@@ -1,4 +1,5 @@
 # E-Commerce_Company | SQL
+
 *** SQL
 # 1. Analyze all the tables by describing their contents.
 DESCRIBE Customers;
